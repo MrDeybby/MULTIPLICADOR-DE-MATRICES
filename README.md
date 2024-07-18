@@ -37,8 +37,8 @@ El método de Hill es un cifrado polialfabético que usa álgebra lineal para co
 
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio 
+git clone https://github.com/MrDeybby/MULTIPLICADOR-DE-MATRICES
+cd MULTIPLICADOR-DE-MATRICES
 
 ```
 ## Contribuciones
